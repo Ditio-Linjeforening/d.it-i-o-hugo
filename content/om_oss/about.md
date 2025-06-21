@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "Om Foreningen"
 date: 2025-06-08T13:13:42+02:00
+summary: Informasjon om Foreningen
 draft: false
 weight: 1
 ---

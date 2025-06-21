@@ -12,7 +12,7 @@ weight:                     # Used for ordering, Heavier further down, if no wei
 toc: true                   # Shows table of content for the post
 ---
 
-# Example event
+## Example event
 
 Her kan vi skrive om events som skal skje, det er jo kult det!\
 Hva skal det være, hvem vet???
@@ -20,6 +20,6 @@ Hva skal det være, hvem vet???
 <!--more-->
 Only the stuff above the more will be in the summary if its not defined at the top
 
-## Example subheading 1
+### Example subheading 1
 
-## Example subheading 2
+### Example subheading 2

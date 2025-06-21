@@ -5,6 +5,9 @@ draft: false
 weight: 3
 ---
 
+Lær  mere om vår historie
+
+<!--more--> 
 
 Oppstartsmøte: 06.06.2025\
 Registrert i Brønnøysundregistrene: xx.xx.2025\

@@ -13,3 +13,4 @@ Ta en titt på [om foreningen](om_oss/about), så får du vite mer!
 Mer info kommer!
 
 ![ditio-temp-logo](img/ditio.png)
+*Midlertidig AI generert Logo

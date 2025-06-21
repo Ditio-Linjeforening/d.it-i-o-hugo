@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hendelser</title>
+      <title>Arrangementer</title>
       <link>http://localhost:1313/arrangementer/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/arrangementer/</guid>
-      <description>&lt;p&gt;Kommende hendelser&lt;/p&gt;</description>
+      <description>&lt;p&gt;Kommende arrangementer&lt;/p&gt;</description>
     </item>
     <item>
       <title>Om Foreningen</title>
