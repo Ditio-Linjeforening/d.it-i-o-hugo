@@ -32,5 +32,9 @@ Merk: Det kan bli tatt bilder under arrangementet til bruk i Ditios promoterings
 (Så vi vet omtrent hvor mange vi blir!)
 
 Vi sees!
+
+## Sakdsokumenter:
+[https://drive.google.com/file/d/1q9mZxox8H0HVZsMvDmqxSMIXy0drh7g4/view?usp=drive_link ](https://drive.google.com/file/d/1q9mZxox8H0HVZsMvDmqxSMIXy0drh7g4/view?usp=drive_link )
+
 <!--more-->
 
